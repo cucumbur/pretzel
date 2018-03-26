@@ -44,7 +44,7 @@ function toggleWindow() {
 mb.on("ready", function ready() {
   // mb.window.webContents.toggleDevTools();
   autoUpdater.checkForUpdatesAndNotify();
-  globalShortcut.register("CommandOrControl+`", toggleWindow);
+  globalShortcut.register("CommandOrControl+Shift+Alt+P", toggleWindow);
 });
 
 mb.on("show", () => {
