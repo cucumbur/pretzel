@@ -18,7 +18,7 @@ Pretzel is Mac desktop app that shows and search keyboard shortcuts based on you
 
 ## Download for Mac
 
-[Download the latest <rick-fork> release](https://ricksheahan.io/downloads/Pretzel.app)
+[Download the latest \<rick-fork\> release](https://ricksheahan.io/downloads/Pretzel.app)
 
 ## Run it locally (if you are curious):
 
