@@ -3,6 +3,7 @@
     <img alt="Parcel" src="./screenshot/logo.png" width="200">
   </a>
 </p>
+
 ###### This repository of Pretzel and any affiliated releases are edits by me, Rick Sheahan, on the initial MIT Licensed codebase by Amie Chen, who created the program and deserves the recognition. In addition to my code changes, I have edited the download link, the show/unshow hotkey that is listed, and the running it locally section of this readme. Please refer to the original repo at [https://github.com/amiechen/pretzel](https://github.com/amiechen/pretzel) to get the original,
 
 Pretzel is Mac desktop app that shows and search keyboard shortcuts based on your current app. [Checkout the lading page here.](https://www.amie-chen.com/pretzel)
